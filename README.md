@@ -320,6 +320,10 @@ Recall: 0.76
 F1 Score: 0.82
 
 Note: Actual results may vary depending on random seed and dataset split.
-https://github.com/REASCREH/DeepDive-ANN-/blob/d5a867ccbe1acafeadf76588ce1726fc7b43e8c1/model_results.txt
+📄 [View raw model_results.txt](https://raw.githubusercontent.com/REASCREH/DeepDive-ANN-/main/model_results.txt)
+
 
 ![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/d92b2252923e491522b3f62754d8b82dcd781205/metrics_bar.png)
+![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/train_conf_matrix.png)
+![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/val_conf_matrix.pnghttps://github.com/REASCREH/DeepDive-ANN-/blob/main/val_conf_matrix.png)
+![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/val_prediction_distribution.png)
