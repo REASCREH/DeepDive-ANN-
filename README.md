@@ -322,4 +322,4 @@ F1 Score: 0.82
 Note: Actual results may vary depending on random seed and dataset split.
 https://github.com/REASCREH/DeepDive-ANN-/blob/d5a867ccbe1acafeadf76588ce1726fc7b43e8c1/model_results.txt
 
-https://github.com/REASCREH/DeepDive-ANN-/blob/d92b2252923e491522b3f62754d8b82dcd781205/metrics_bar.png
+![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/d92b2252923e491522b3f62754d8b82dcd781205/metrics_bar.png)
