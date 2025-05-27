@@ -303,9 +303,9 @@ Image saved: model_results/metrics_bar.png
 Predicted Class Distribution
 
 Image saved: model_results/val_prediction_distribution.png
+![Notebook Preview](https://github.com/REASCREH/DeepDive-ANN-/blob/main/ANN.ipynb)
 
 🧪 Performance Metrics (Sample Output)
-
 TRAINING METRICS:
 Accuracy: 0.9994
 Precision: 0.86
