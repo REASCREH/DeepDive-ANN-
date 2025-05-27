@@ -320,6 +320,5 @@ Recall: 0.76
 F1 Score: 0.82
 
 Note: Actual results may vary depending on random seed and dataset split.
-https://github.com/REASCREH/DeepDive-ANN-/commit/d63173702272a5329df5a80278b5aef3b6ae33e9
 
 
