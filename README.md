@@ -325,5 +325,5 @@ Note: Actual results may vary depending on random seed and dataset split.
 
 ![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/d92b2252923e491522b3f62754d8b82dcd781205/metrics_bar.png)
 ![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/train_conf_matrix.png)
-![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/val_conf_matrix.pnghttps://github.com/REASCREH/DeepDive-ANN-/blob/main/val_conf_matrix.png)
+![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/val_conf_matrix.png)
 ![Graph](https://github.com/REASCREH/DeepDive-ANN-/blob/main/val_prediction_distribution.png)
